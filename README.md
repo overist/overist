@@ -10,6 +10,8 @@
 ![Snake animation](https://github.com/overist/overist/blob/output/github-contribution-grid-snake.svg)
 ![WJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=overist&show_icons=true&theme=default)
 
+![WJ's GitHub stats](https://github-readme-stats-ten-beta-77.vercel.app/api?username=overist&show_icons=true&theme=default)
+
 ## ⚡ Tech Stack
 
 ### Programming Language
@@ -25,7 +27,5 @@
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Baekjoon Online Judge
-<div style="text-align: left; display: block;">
-  [My Algorithm History](https://github.com/overist/algorithmist)
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=overist" />
-</div>
+[My Algorithm History](https://github.com/overist/algorithmist)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=overist" />
