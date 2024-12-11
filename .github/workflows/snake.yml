@@ -10,20 +10,24 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # Use explicit Ubuntu version
     timeout-minutes: 10
 
     steps:
-      # Generate a snake game SVG from GitHub contributions graph
+      # Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generate GitHub Contribution Grid Snake
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: overist
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
-      # Push generated SVG to output branch
+      # Push generated SVGs to the output branch
       - name: Push GitHub Contribution Grid Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
