@@ -1,11 +1,10 @@
-<img src="https://github.com/user-attachments/assets/b50022dc-35d1-40d4-82f9-db2e22fc19d3" style="width:100%;" />
-<br/> <br/>
+<img src="https://github.com/user-attachments/assets/4e15359f-6995-4911-b603-0fd0bf9c8b0c" style="width:100%;" />
+<br/>
 
-Hi there ! 👋
+<p>Hi there ! 👋</p>
+<p>I am Wonjun Choe, full stack web developer using JS.</p>
+<p>Sometimes I create a mobile application out of my own idea.</p>
 
-I am Wonjun Choe, full stack web developer using JS.
-
-Sometimes I create a mobile application out of my own idea.
 
 ## 🐍 Github Contributions
 ![Snake animation](https://github.com/overist/overist/blob/output/github-contribution-grid-snake.svg)
