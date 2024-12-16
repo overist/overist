@@ -5,10 +5,13 @@
 <p>I am Wonjun Choe, full stack web developer.</p>
 <p>Sometimes I create a mobile application out of my own idea.</p>
 
+<br/>
 
 ## 🐍 Github Contributions
 ![Snake animation](https://github.com/overist/overist/blob/output/github-contribution-grid-snake.svg)
 ![WJ's GitHub stats](https://github-readme-stats-ten-beta-77.vercel.app/api?username=overist&show_icons=true&theme=default)
+
+<br/>
 
 ## ⚡ Tech Stack
 ### Programming Language
@@ -46,6 +49,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-sqaure&logo=jira&logoColor=ffffff" alt="" />
 </div>
 
+<br/>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Baekjoon Online Judge
-[My Algorithm History](https://github.com/overist/algorithmist)
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=overist" />
+
+[My Algorithm History](https://github.com/overist/algorithmist)
