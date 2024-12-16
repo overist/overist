@@ -2,7 +2,7 @@
 <br/>
 
 <p>Hi there ! 👋</p>
-<p>I am Wonjun Choe, full stack web developer using JS.</p>
+<p>I am Wonjun Choe, full stack web developer.</p>
 <p>Sometimes I create a mobile application out of my own idea.</p>
 
 
