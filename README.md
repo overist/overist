@@ -25,7 +25,7 @@
 
 ### Backend
 <div style="display:flex;">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="" />
