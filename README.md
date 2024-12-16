@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Web Security-000000?style=for-the-badge&logo=owasp&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff" alt="" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff" alt="" />
 </div>
 
