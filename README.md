@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="" />
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=ffffff" alt="" />
+  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=ffffff" alt="" />
 </div>
 
 ### ETC
