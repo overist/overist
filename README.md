@@ -51,10 +51,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff" alt="" />
 </div>
 
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Baekjoon Online Judge
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=overist" />
-
-[My Algorithm History](https://github.com/overist/algorithmist)
