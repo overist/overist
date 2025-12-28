@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=ffffff" alt="" />  
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=ffffff" alt="" />
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img style="height:28px;" src="https://static.spartaclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  </a>
 </div>
 
 ### Frontend
